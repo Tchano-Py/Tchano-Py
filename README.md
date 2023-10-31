@@ -7,7 +7,7 @@ Olá! 👋 Sou o <strong>Cristiano Fula Mariano</strong>, também conhecido como
 
 - **Flutter e Dart**: Minha principal área de atuação é o desenvolvimento mobile, e sou especialista na utilização do Flutter e na linguagem Dart.
 
-- **ReactJS e JavaScript**: Além do desenvolvimento mobile, também tenho sólida experiência em front-end, com proficiência no uso do ReactJS e JavaScript.
+- **ReactJS, JavaScript e TypeSript**: Além do desenvolvimento mobile, também tenho sólida experiência em front-end, com proficiência no uso do ReactJS e JavaScript.
 
 - **Frameworks de Estilização**: Tenho habilidades avançadas em frameworks como TailwindCSS, Bootstrap, e outras ferramentas de estilização.
 
