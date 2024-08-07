@@ -1,8 +1,5 @@
 # Cristiano Fula Mariano (Tchano - Py)
-<div> 
-    <img src="https://github-readme-stats.vercel.app/api?username=Tchano-Py&show_icons=true&bg_color=00000000"/> 
-</div>
-<br/><br/><br/>
+
 Olá! 👋 Sou o <strong>Cristiano Fula Mariano</strong>, também conhecido como <strong>Tchano - Py</strong>. Atualmente, estou focado na área de desenvolvimento mobile e front-end. Possuo expertise em diversas tecnologias, incluindo:
 
 - **Flutter e Dart**: Minha principal área de atuação é o desenvolvimento mobile, e sou especialista na utilização do Flutter e na linguagem Dart.
